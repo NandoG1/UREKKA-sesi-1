@@ -12,12 +12,16 @@ export default function Home() {
           height={38}
           priority
         />
+        <h1 className="font-mono">Training Day 1</h1>
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             Fernando Gunawan - 2702247960
           </li>
           <li className="tracking-[-.01em]">
             Computer Science - BINUS University
+          </li>
+          <li className="mt-2">
+            Alam Sutera Campus
           </li>
         </ol>
 
